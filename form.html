@@ -4,7 +4,12 @@
 <head>
    <title> Form </title>
    <h1 align="center">Golf Course Cart Rental Application</h1>
-
+   
+   <script>
+        function formSubmit() {
+            alert("Thank you for submitting the form!");
+        }
+   </script>
 </head>
 
 <body>
@@ -51,7 +56,7 @@
         </div>
         <br>
         <div id="submitForm" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-            <input type="submit" id="submit" value="Submit">
+            <input type="submit" id="submit" value="Submit" onclick="formSubmit()">
         </div>
     </form>
 </body>
