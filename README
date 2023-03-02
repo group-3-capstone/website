@@ -1,8 +1,7 @@
-NOTES:
-
 To-do list:
-- clear out all old 4nines website content
-- get the top navigation bar and bottom credits bar on ALL pages
-- make sure each page can get to every other page
+- add photos of the course to the home page
+- write bios of team members
+- optionally: center top and bottom bar text
 
-Stuff such as image galleries, font size and choice, etc. can wait until Phase 2 if needed.
+For the rest of Phase 2, we have to get everything connected.
+Security should be good for Phase 3 (HTTPS is already enabled)
